@@ -1,0 +1,104 @@
+Marque_Voiture,Modele,Largeur,Hauteur,Diametre
+Renault,Clio 3,195,55,16
+Renault,Clio 4,195,65,15
+Renault,Clio 5,205,55,16
+Peugeot,208,195,55,16
+Peugeot,308,225,45,17
+Renault,Mégane 3,205,55,16
+Renault,Mégane 4,225,45,17
+Citroën,C3,185,65,15
+Dacia,Sandero 1,185,60,15
+Dacia,Sandero 2,195,55,16
+Dacia,Sandero 3,205,45,17
+Peugeot,207,195,55,16
+Renault,Scénic 3,215,60,16
+Citroën,C4,205,55,16
+Peugeot,307,205,55,16
+Volkswagen,Polo,185,60,15
+Renault,Captur,215,60,16
+Peugeot,206,185,60,14
+Citroën,C4 Picasso,205,55,16
+Volkswagen,Golf,225,45,17
+Nissan,Qashqai,215,60,17
+Ford,Fiesta,195,50,15
+Opel,Corsa,185,60,15
+Renault,Twingo,165,65,14
+Citroën,DS3,195,55,16
+Fiat,500,165,65,14
+Toyota,Yaris,175,60,15
+Dacia,Duster,215,65,16
+BMW,Série 1,205,55,16
+Audi,A3,225,40,18
+Mercedes-Benz,Classe A,205,55,16
+Peugeot,108,165,65,14
+Citroën,C1,165,65,14
+Toyota,Aygo,165,65,14
+Volkswagen,Tiguan,215,60,17
+Renault,Kangoo,195,65,15
+Peugeot,Partner,185,65,15
+Citroën,Berlingo,195,65,15
+Ford,Focus,225,45,17
+Volkswagen,Passat,225,50,17
+BMW,Série 3,225,45,17
+Audi,A4,225,45,17
+Mercedes-Benz,Classe C,225,45,17
+Renault,Zoé,195,55,16
+Peugeot,508,225,45,17
+Citroën,C5,225,50,17
+Volvo,XC60,235,55,18
+Land Rover,Evoque,235,55,18
+Skoda,Octavia,225,45,17
+Seat,Ibiza,195,50,15
+Hyundai,i10,165,65,14
+Kia,Rio,195,50,15
+Suzuki,Swift,185,55,15
+Honda,Jazz,185,55,15
+Mazda,2,185,55,15
+Mitsubishi,ASX,215,60,16
+Subaru,XV,225,55,17
+Jeep,Renegade,215,60,16
+Alfa Romeo,Giulietta,225,45,17
+Lancia,Ypsilon,175,60,15
+Smart,Fortwo,155,65,15
+Mini,Cooper,195,50,16
+Chevrolet,Aveo,185,55,15
+Tesla,Model S,245,45,19
+Porsche,911,245,35,20
+Ferrari,488,245,35,20
+Lamborghini,Huracan,245,30,20
+McLaren,570S,225,35,19
+Aston Martin,DB11,245,40,20
+Bentley,Continental GT,275,40,20
+Rolls-Royce,Phantom,255,45,21
+Maserati,Ghibli,245,40,19
+Jaguar,F-Type,255,35,20
+Lexus,NX,225,60,17
+Infiniti,Q30,225,45,17
+DS Automobiles,DS 3,195,55,16
+DS Automobiles,DS 4,225,45,17
+DS Automobiles,DS 5,225,45,18
+Renault,Espace,225,55,17
+Peugeot,807,215,65,16
+Citroën,C8,215,65,16
+Fiat,Ulysse,215,65,16
+Lancia,Phedra,215,65,16
+Mercedes-Benz,Viano,225,65,16
+Volkswagen,Sharan,235,55,17
+Seat,Alhambra,235,55,17
+Ford,S-Max,235,50,17
+Renault,Koleos,225,60,17
+Peugeot,4007,235,60,17
+Citroën,C-Crosser,235,60,17
+Mitsubishi,Outlander,225,60,17
+Subaru,Forester,225,60,17
+Jeep,Grand Cherokee,265,50,18
+Land Rover,Discovery,255,60,18
+Toyota,Land Cruiser,285,65,17
+Nissan,Patrol,295,65,18
+Skoda,Yeti,215,60,16
+Seat,Arona,215,50,16
+Hyundai,Kona,215,50,16
+Kia,Stonic,215,50,16
+Suzuki,Vitara,215,60,16
+Honda,HR-V,215,60,16
+Mazda,CX-3,215,50,16

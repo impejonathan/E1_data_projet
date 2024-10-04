@@ -1,0 +1,39 @@
+1 Crée un environnement 
+python -m venv Dagster-env     
+
+####################################
+2 activer l'environnement 
+.\Dagster-env\Scripts\activate   
+pip install -r requirements.txt
+
+####################################
+3 installer dagster
+pip install dagster dagster-webserver  
+
+####################################
+4 lancer le localhost ( l'orchestrateur qui gere les fichier ETL )
+dagster dev -f dagster_create.py      
+
+dagster dev -f dagster_azure.py
+
+dagster dev -f dagster_simple_az.py
+
+dagster dev -f dagster_carter.py
+
+  CLI tools for working with Dagster.
+
+Options:
+  -v, --version  Show the version and exit.
+  -h, --help     Show this message and exit.
+
+Commands:
+  asset        Commands for working with Dagster assets.
+  code-server  Commands for working with Dagster code servers.
+  debug        Commands for helping debug Dagster issues by dumping or loading artifacts from specific runs.
+  dev          Start a local deployment of Dagster, including dagster-webserver running on localhost and the...
+  instance     Commands for working with the current Dagster instance.
+  job          Commands for working with Dagster jobs.
+  project      Commands for bootstrapping new Dagster projects and code locations.
+  run          Commands for working with Dagster job runs.
+  schedule     Commands for working with Dagster schedules.
+  sensor       Commands for working with Dagster sensors.
